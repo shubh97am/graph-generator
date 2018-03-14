@@ -5,6 +5,11 @@ equation pattern
 sin(x)
 sin(x)+cos(x)
 log2(cos(sinx))
+for e^x use ep(x)
+zoom in zoom out and shifting keys
+A,S,D,W,O,P,K,L
+
+
 and for all mathematical equations
 compile mainn.cpp with c++ std 11 and install opengl in c++
 first install opengl
