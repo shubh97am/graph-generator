@@ -6,3 +6,4 @@ sin(x)
 sin(x)+cos(x)
 log2(cos(sinx))
 and for all mathematical equations
+compile mainn.cpp with c++ std 11 and install opengl in c++
